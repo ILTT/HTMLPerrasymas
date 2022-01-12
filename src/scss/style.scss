@@ -1,0 +1,26 @@
+@import "~bootstrap";
+img{
+  width: 150px;
+  height: 100px;
+}
+th,td{
+  font-size: 2em;
+}
+button{
+  background: #003cff;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+table{
+  outline-style: solid;
+  outline-color: black;
+}
+.container{
+  background-color: black;
+}
+h1,i {
+  color: #ffffff;
+}
+input{
+margin-bottom: 10px;
+}
